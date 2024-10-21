@@ -52,6 +52,16 @@ const cmData: CountryData[] = [
     },
   },
   {
+    name: "Kevin Kenfack",
+    link: "https://www.kevinkenfack.com/",
+    tags: ["FrontEnd", "BackEnd", "Creative Dev"],
+    socials: {
+      twitter: "kenfackdev",
+      github: "kevinkenfack",
+      linkedin: "kevinkenfackjoel",
+    },
+  },
+  {
     name: "Wilfried Djossi",
     link: "https://www.la2spaille.com/",
     tags: ["FrontEnd", "Creative Dev"],
